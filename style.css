@@ -1,0 +1,15 @@
+#frm{
+  padding: 20px;
+  border: 2px solid;
+}
+
+#cart{
+  margin-top: 30px;
+  padding: 20px;
+  border: 2px solid;
+  background: lightgreen;
+}
+
+th, td, tr{
+  border: 1px solid;
+}
